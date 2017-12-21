@@ -1,7 +1,7 @@
 # Next generation put in
 
 
-[![License](https://img.shields.io/:license-mit-blue.svg)](hhttps://github.com/1stBitcoin/NextGenerationPutIn/LICENSE)
+[![License](https://img.shields.io/:license-mit-blue.svg)](https://github.com/1stBitcoin/NextGenerationPutIn/blob/master/LICENSE)
 
 Next generation put in
 
